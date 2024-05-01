@@ -19,10 +19,30 @@
   Open the file in a browser and verify the output.
   
 ## CODE
+```
+<html>
+    <head>
+        ice cream varieties 
+        </head>
+        <body>
+            <ul>
+                <li>strawberry</li>
+                <li>vanilla </li>
+                <li>mango</li>
+                    <li>jackcfruit</li>    
+            </ul>
+            <ol>
+                <li>pista</li>
+                <li>chocolate</li>
+                <li>lichi</li>
+                <li>butterscotch</li>
+            </ol>
+        </body>
+        </html>
 
-
+```
 ## OUTPUT
-
+![Screenshot (841)](https://github.com/sunil2410/Ex02_Web-Design/assets/168617270/f49e7820-889a-4172-914b-548482e945f7)
 
 ## RESULT
   List of Departments in an Institution is created successfully.
